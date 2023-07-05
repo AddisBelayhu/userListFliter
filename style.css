@@ -19,10 +19,10 @@ body {
     border-radius: 5px;
     box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.2);
     overflow: hidden;
-    width: 300px;
+    width: 400px;
 }
 
-.title{
+.title {
     margin: 0;
 }
 
@@ -33,20 +33,21 @@ body {
 }
 
 .header {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgb(92, 92, 202);
     color:#fff;
     padding: 30px 20px;
 }
 
 .header input {
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(9, 0, 0, 0.3);
     border: 0;
     border-radius: 50px;
-    color: #fff;
+    color: #ffffff;
     font-size: 14px;
     padding: 10px 15px;
     width: 100%;
 }
+
 
 .header input:focus {
     outline: none;
